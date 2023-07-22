@@ -16,8 +16,9 @@
 :root{/*variáveis globais*/
 
     /*criação da paleda de cores e criação de variáveis para reutilizá-las*/
+    /*Aqui na primeira parte temos apenas as cores*/
 
---cor0:#F84211;
+--cor0:white;
 --cor1:#022601;
 --cor2:#14301c;
 --cor3:#425540;
@@ -26,7 +27,7 @@
 --cor6:rgb(53, 53, 53);
 --cor7:rgba(53, 53, 53, 0);
 
-/*separação das fontes*/
+/*Separando as fontes*/
 
 --fonte-padrao:Arial, Verdana, Helvetica, sans-serif;/*usado nos parágrafos, links e listas*/
 --fontetitulo:'capa';/*fonte do título do site*/
