@@ -18,7 +18,7 @@
     /*criação da paleda de cores e criação de variáveis para reutilizá-las*/
     /*Aqui na primeira parte temos apenas as cores*/
 
---cor0:white;
+--cor0:white;/*A cor original é #F84211*/
 --cor1:#022601;
 --cor2:#14301c;
 --cor3:#425540;
